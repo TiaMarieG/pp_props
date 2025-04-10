@@ -1,3 +1,4 @@
+// Destructuring the props to explicitly call title and description
 function Hobby({ title, description}) {
    return(
       <div>
